@@ -3,10 +3,6 @@ body {
     justify-content: center;
     align-items: center;
 }
-img {
-    width: 80%;
-    min-height: auto;
-}
 
 embed {
     height: 100vh;
